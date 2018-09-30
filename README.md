@@ -12,3 +12,13 @@
 
 composer require jonexyz/hellow:dev-master
 
+
+
+
+```
+require_once './vendor/autoload.php';
+
+use Hello\SayHellow;
+
+echo Hello\SayHellow::world();
+```
