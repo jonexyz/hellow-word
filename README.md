@@ -8,3 +8,7 @@
 这是一个学习示例。
 
 参照教程 https://www.cnblogs.com/zhangtianle/p/7687054.html
+
+
+composer require jonexyz/hellow:dev-master
+
