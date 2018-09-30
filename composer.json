@@ -1,0 +1,19 @@
+{
+  "name":"jonexyz/hellow",
+  "description":"echo hello world",
+  "license": "MIT",
+  "authors":[
+    {
+      "name":"jone",
+      "email":"abc@jone.xyz"
+    }
+  ],
+  "minimum-stability":"dev",
+  "require":{},
+  "autoload":{
+    "psr-4":{
+      "Hello\\":"src/"
+    }
+  }
+
+}
